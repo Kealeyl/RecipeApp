@@ -59,8 +59,7 @@ fun SimpleDishNavHost(
                     navController.navigate("${SearchDestination.route}/${it}") {
                         popUpTo(HomeDestination.route) { inclusive = true }
                     }
-                },
-                navController = navController
+                }
             )
         }
 
