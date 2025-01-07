@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleDish</string>
+    <string name="login_title">Login</string>
+    <string name="edit_dish_title">Edit Dish</string>
+    <string name="dish_details_title">Dish Details</string>
+    <string name="add">Add Dish</string>
+    <string name="search">Search Dish</string>
+
+</resources>
